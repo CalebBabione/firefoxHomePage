@@ -9,7 +9,7 @@
 }
 
 .headerOne{
-	width: 70%;
+	width: 50%;
 	margin-bottom: 10%;
 }
 .headerOne h1{
@@ -18,7 +18,7 @@
 }
 
 .headerOne img{
-	width: 50%;
+	width: 70%;
 	border-radius: 2%;
 	display: block;
 	box-shadow: 10px 10px 5px rgba(28, 26, 59);
@@ -28,14 +28,13 @@
 .links {
 	width: 30%;
 	margin-top: 5%;
-	text-align: left;
 }
 
 .links ul{
 	list-style-type: none;
-	text-align: left;
 	font-size: 300%;
 }
+
 
 .links a{
 	text-decoration: none;
@@ -63,3 +62,12 @@
 	.headerOne{
 		margin: auto;
 	}
+}
+
+
+.linkList{
+	text-align: left;
+}
+.linkHead{
+	margin-left: 9%;
+}
